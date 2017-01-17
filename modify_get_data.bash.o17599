@@ -1,0 +1,14 @@
+Warning: no access to tty (Bad file descriptor).
+Thus no job control in this shell.
+my_rank:- 0	Comm World Size:- 8
+my_rank:- 2	Comm World Size:- 8
+my_rank:- 4	Comm World Size:- 8
+my_rank:- 6	Comm World Size:- 8
+my_rank:- 3	Comm World Size:- 8
+my_rank:- 5	Comm World Size:- 8
+my_rank:- 7	Comm World Size:- 8
+my_rank:- 1	Comm World Size:- 8
+
+processor final  my_rank:-7
+With n = 100 trapezoids, our estimate
+of the integral from 0.000000 to 1.000000 = 0.294928
